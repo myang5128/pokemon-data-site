@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-brute-bonnet,986,protosynthesis,,protosynthesis,grass,dark,111,127,99,79,99,55
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+brute-bonnet,986,protosynthesis,,protosynthesis,grass,dark,111,127,99,79,99,55,Generation VIII,0,50,False,False,False,slow,no-eggs,

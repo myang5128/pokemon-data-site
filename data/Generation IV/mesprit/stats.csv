@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-mesprit,481,levitate,,,psychic,,80,105,105,105,105,80
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+mesprit,481,levitate,,,psychic,,80,105,105,105,105,80,Generation IV,140,3,False,True,False,slow,no-eggs,

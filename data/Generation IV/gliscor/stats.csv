@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-gliscor,472,hyper-cutter,sand-veil,poison-heal,ground,flying,75,95,125,45,75,95
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+gliscor,472,hyper-cutter,sand-veil,poison-heal,ground,flying,75,95,125,45,75,95,Generation IV,70,30,False,False,False,medium-slow,bug,

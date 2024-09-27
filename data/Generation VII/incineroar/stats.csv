@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-incineroar,727,blaze,,intimidate,fire,dark,95,115,90,80,90,60
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+incineroar,727,blaze,,intimidate,fire,dark,95,115,90,80,90,60,Generation VII,50,45,False,False,False,medium-slow,ground,

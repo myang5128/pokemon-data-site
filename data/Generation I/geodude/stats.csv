@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-geodude,74,rock-head,sturdy,sand-veil,rock,ground,40,80,100,30,30,20
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+geodude,74,rock-head,sturdy,sand-veil,rock,ground,40,80,100,30,30,20,Generation I,70,255,False,False,False,medium-slow,mineral,

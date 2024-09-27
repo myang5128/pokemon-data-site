@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-bisharp,625,defiant,inner-focus,pressure,dark,steel,65,125,100,60,70,70
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+bisharp,625,defiant,inner-focus,pressure,dark,steel,65,125,100,60,70,70,Generation V,35,45,False,False,False,medium,humanshape,

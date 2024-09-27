@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-reshiram,643,turboblaze,,,dragon,fire,100,120,100,150,120,90
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+reshiram,643,turboblaze,,,dragon,fire,100,120,100,150,120,90,Generation V,0,3,False,True,False,slow,no-eggs,

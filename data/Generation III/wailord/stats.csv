@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-wailord,321,water-veil,oblivious,pressure,water,,170,90,45,90,45,60
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+wailord,321,water-veil,oblivious,pressure,water,,170,90,45,90,45,60,Generation III,50,60,False,False,False,fast-then-very-slow,ground,water2

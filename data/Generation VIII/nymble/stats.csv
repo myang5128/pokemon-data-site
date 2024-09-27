@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-nymble,919,swarm,,tinted-lens,bug,,33,46,40,21,25,45
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+nymble,919,swarm,,tinted-lens,bug,,33,46,40,21,25,45,Generation VIII,20,190,False,False,False,medium,bug,

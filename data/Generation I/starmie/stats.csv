@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-starmie,121,illuminate,natural-cure,analytic,water,psychic,60,75,85,100,85,115
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+starmie,121,illuminate,natural-cure,analytic,water,psychic,60,75,85,100,85,115,Generation I,50,60,False,False,False,slow,water3,

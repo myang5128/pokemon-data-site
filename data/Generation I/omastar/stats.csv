@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-omastar,139,swift-swim,shell-armor,weak-armor,rock,water,70,60,125,115,70,55
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+omastar,139,swift-swim,shell-armor,weak-armor,rock,water,70,60,125,115,70,55,Generation I,50,45,False,False,False,medium,water1,water3

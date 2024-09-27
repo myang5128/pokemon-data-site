@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-thwackey,811,overgrow,,grassy-surge,grass,,70,85,70,55,60,80
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+thwackey,811,overgrow,,grassy-surge,grass,,70,85,70,55,60,80,Generation VIII,50,45,False,False,False,medium-slow,ground,plant

@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-weedle,13,shield-dust,,run-away,bug,poison,40,35,30,20,20,50
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+weedle,13,shield-dust,,run-away,bug,poison,40,35,30,20,20,50,Generation I,70,255,False,False,False,medium,bug,

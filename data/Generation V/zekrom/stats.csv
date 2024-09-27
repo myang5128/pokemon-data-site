@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-zekrom,644,teravolt,,,dragon,electric,100,150,120,120,100,90
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+zekrom,644,teravolt,,,dragon,electric,100,150,120,120,100,90,Generation V,0,3,False,True,False,slow,no-eggs,

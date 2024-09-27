@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-politoed,186,water-absorb,damp,drizzle,water,,90,75,75,90,100,70
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+politoed,186,water-absorb,damp,drizzle,water,,90,75,75,90,100,70,Generation II,50,45,False,False,False,medium-slow,water1,

@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-morelull,755,illuminate,effect-spore,rain-dish,grass,fairy,40,35,55,65,75,15
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+morelull,755,illuminate,effect-spore,rain-dish,grass,fairy,40,35,55,65,75,15,Generation VII,50,190,False,False,False,medium,plant,

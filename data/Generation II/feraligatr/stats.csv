@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-feraligatr,160,torrent,,sheer-force,water,,85,105,100,79,83,78
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+feraligatr,160,torrent,,sheer-force,water,,85,105,100,79,83,78,Generation II,70,45,False,False,False,medium-slow,monster,water1

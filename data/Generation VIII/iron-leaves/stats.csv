@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-iron-leaves,1010,quark-drive,,quark-drive,grass,psychic,90,130,88,70,108,104
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+iron-leaves,1010,quark-drive,,quark-drive,grass,psychic,90,130,88,70,108,104,Generation VIII,0,5,False,False,False,slow,no-eggs,

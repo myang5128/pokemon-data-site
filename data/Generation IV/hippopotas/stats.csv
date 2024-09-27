@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-hippopotas,449,sand-stream,,sand-force,ground,,68,72,78,38,42,32
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+hippopotas,449,sand-stream,,sand-force,ground,,68,72,78,38,42,32,Generation IV,50,140,False,False,False,slow,ground,

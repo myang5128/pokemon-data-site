@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-boldore,525,sturdy,weak-armor,sand-force,rock,,70,105,105,50,40,20
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+boldore,525,sturdy,weak-armor,sand-force,rock,,70,105,105,50,40,20,Generation V,50,120,False,False,False,medium-slow,mineral,

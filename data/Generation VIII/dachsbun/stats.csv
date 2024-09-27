@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-dachsbun,927,well-baked-body,,aroma-veil,fairy,,57,80,115,50,80,95
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+dachsbun,927,well-baked-body,,aroma-veil,fairy,,57,80,115,50,80,95,Generation VIII,50,90,False,False,False,medium-slow,ground,mineral

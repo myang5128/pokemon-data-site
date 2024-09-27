@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-cacturne,332,sand-veil,,water-absorb,grass,dark,70,115,60,115,60,55
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+cacturne,332,sand-veil,,water-absorb,grass,dark,70,115,60,115,60,55,Generation III,35,60,False,False,False,medium-slow,plant,humanshape

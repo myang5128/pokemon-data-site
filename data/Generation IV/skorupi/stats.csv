@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-skorupi,451,battle-armor,sniper,keen-eye,poison,bug,40,50,90,30,55,65
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+skorupi,451,battle-armor,sniper,keen-eye,poison,bug,40,50,90,30,55,65,Generation IV,50,120,False,False,False,slow,bug,water3

@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-pikachu,25,static,,lightning-rod,electric,,35,55,40,50,50,90
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+pikachu,25,static,,lightning-rod,electric,,35,55,40,50,50,90,Generation I,50,190,False,False,False,medium,ground,fairy

@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-iron-valiant,1006,quark-drive,,quark-drive,fairy,fighting,74,130,90,120,60,116
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+iron-valiant,1006,quark-drive,,quark-drive,fairy,fighting,74,130,90,120,60,116,Generation VIII,0,10,False,False,False,slow,no-eggs,

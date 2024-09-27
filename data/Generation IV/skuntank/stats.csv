@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-skuntank,435,stench,aftermath,keen-eye,poison,dark,103,93,67,71,61,84
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+skuntank,435,stench,aftermath,keen-eye,poison,dark,103,93,67,71,61,84,Generation IV,50,60,False,False,False,medium,ground,

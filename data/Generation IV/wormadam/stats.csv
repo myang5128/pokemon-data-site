@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-wormadam,413,anticipation,,overcoat,bug,grass,60,59,85,79,105,36
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+wormadam,413,anticipation,,overcoat,bug,grass,60,59,85,79,105,36,Generation IV,70,45,False,False,False,medium,bug,

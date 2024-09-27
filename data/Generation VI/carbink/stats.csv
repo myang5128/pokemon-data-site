@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-carbink,703,clear-body,,sturdy,rock,fairy,50,50,150,50,150,50
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+carbink,703,clear-body,,sturdy,rock,fairy,50,50,150,50,150,50,Generation VI,50,60,False,False,False,slow,fairy,mineral

@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-onix,95,rock-head,sturdy,weak-armor,rock,ground,35,45,160,30,45,70
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+onix,95,rock-head,sturdy,weak-armor,rock,ground,35,45,160,30,45,70,Generation I,50,45,False,False,False,medium,mineral,

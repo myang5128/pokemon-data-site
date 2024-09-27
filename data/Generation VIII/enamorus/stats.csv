@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-enamorus,905,cute-charm,,contrary,fairy,flying,74,115,70,135,80,106
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+enamorus,905,cute-charm,,contrary,fairy,flying,74,115,70,135,80,106,Generation VIII,,3,False,True,False,slow,no-eggs,

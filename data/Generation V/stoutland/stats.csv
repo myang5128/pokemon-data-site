@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-stoutland,508,intimidate,sand-rush,scrappy,normal,,85,110,90,45,90,80
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+stoutland,508,intimidate,sand-rush,scrappy,normal,,85,110,90,45,90,80,Generation V,50,45,False,False,False,medium-slow,ground,

@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-shuckle,213,sturdy,gluttony,contrary,bug,rock,20,10,230,10,230,5
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+shuckle,213,sturdy,gluttony,contrary,bug,rock,20,10,230,10,230,5,Generation II,50,190,False,False,False,medium-slow,bug,

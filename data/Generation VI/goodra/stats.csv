@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-goodra,706,sap-sipper,hydration,gooey,dragon,,90,100,70,110,150,80
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+goodra,706,sap-sipper,hydration,gooey,dragon,,90,100,70,110,150,80,Generation VI,35,45,False,False,False,slow,dragon,

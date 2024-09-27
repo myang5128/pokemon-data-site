@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-lickitung,108,own-tempo,oblivious,cloud-nine,normal,,90,55,75,60,75,30
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+lickitung,108,own-tempo,oblivious,cloud-nine,normal,,90,55,75,60,75,30,Generation I,50,45,False,False,False,medium,monster,

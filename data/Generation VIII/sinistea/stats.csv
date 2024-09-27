@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-sinistea,854,weak-armor,,cursed-body,ghost,,40,45,45,74,54,50
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+sinistea,854,weak-armor,,cursed-body,ghost,,40,45,45,74,54,50,Generation VIII,50,120,False,False,False,medium,mineral,indeterminate

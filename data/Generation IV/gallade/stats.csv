@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-gallade,475,steadfast,sharpness,justified,psychic,fighting,68,125,65,65,115,80
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+gallade,475,steadfast,sharpness,justified,psychic,fighting,68,125,65,65,115,80,Generation IV,35,45,False,False,False,slow,humanshape,indeterminate

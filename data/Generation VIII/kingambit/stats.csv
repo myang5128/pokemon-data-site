@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-kingambit,983,defiant,supreme-overlord,pressure,dark,steel,100,135,120,60,85,50
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+kingambit,983,defiant,supreme-overlord,pressure,dark,steel,100,135,120,60,85,50,Generation VIII,50,25,False,False,False,medium,humanshape,

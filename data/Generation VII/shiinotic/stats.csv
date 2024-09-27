@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-shiinotic,756,illuminate,effect-spore,rain-dish,grass,fairy,60,45,80,90,100,30
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+shiinotic,756,illuminate,effect-spore,rain-dish,grass,fairy,60,45,80,90,100,30,Generation VII,50,75,False,False,False,medium,plant,

@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-lurantis,754,leaf-guard,,contrary,grass,,70,105,90,80,90,45
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+lurantis,754,leaf-guard,,contrary,grass,,70,105,90,80,90,45,Generation VII,50,75,False,False,False,medium,plant,

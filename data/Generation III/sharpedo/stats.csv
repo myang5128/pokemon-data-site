@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-sharpedo,319,rough-skin,,speed-boost,water,dark,70,120,40,95,40,95
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+sharpedo,319,rough-skin,,speed-boost,water,dark,70,120,40,95,40,95,Generation III,35,60,False,False,False,slow,water2,

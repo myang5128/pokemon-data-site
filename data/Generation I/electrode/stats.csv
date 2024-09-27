@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-electrode,101,soundproof,static,aftermath,electric,,60,50,70,80,80,150
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+electrode,101,soundproof,static,aftermath,electric,,60,50,70,80,80,150,Generation I,70,60,False,False,False,medium,mineral,

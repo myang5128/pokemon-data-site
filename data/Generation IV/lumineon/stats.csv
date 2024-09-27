@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-lumineon,457,swift-swim,storm-drain,water-veil,water,,69,69,76,69,86,91
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+lumineon,457,swift-swim,storm-drain,water-veil,water,,69,69,76,69,86,91,Generation IV,70,75,False,False,False,slow-then-very-fast,water2,

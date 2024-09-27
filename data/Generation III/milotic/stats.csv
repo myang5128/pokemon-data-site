@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-milotic,350,marvel-scale,competitive,cute-charm,water,,95,60,79,100,125,81
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+milotic,350,marvel-scale,competitive,cute-charm,water,,95,60,79,100,125,81,Generation III,50,60,False,False,False,slow-then-very-fast,water1,dragon

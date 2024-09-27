@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-walrein,365,thick-fat,ice-body,oblivious,ice,water,110,80,90,95,90,65
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+walrein,365,thick-fat,ice-body,oblivious,ice,water,110,80,90,95,90,65,Generation III,50,45,False,False,False,medium-slow,water1,ground

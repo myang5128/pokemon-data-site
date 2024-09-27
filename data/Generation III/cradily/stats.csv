@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-cradily,346,suction-cups,,storm-drain,rock,grass,86,81,97,81,107,43
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+cradily,346,suction-cups,,storm-drain,rock,grass,86,81,97,81,107,43,Generation III,50,45,False,False,False,slow-then-very-fast,water3,

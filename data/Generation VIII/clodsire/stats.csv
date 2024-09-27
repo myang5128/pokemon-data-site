@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-clodsire,980,poison-point,water-absorb,unaware,poison,ground,130,75,60,45,100,20
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+clodsire,980,poison-point,water-absorb,unaware,poison,ground,130,75,60,45,100,20,Generation VIII,50,90,False,False,False,medium,water1,ground

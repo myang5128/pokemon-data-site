@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-cursola,864,weak-armor,,perish-body,ghost,,60,95,50,145,130,30
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+cursola,864,weak-armor,,perish-body,ghost,,60,95,50,145,130,30,Generation VIII,50,30,False,False,False,fast,water1,water3

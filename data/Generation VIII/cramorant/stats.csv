@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-cramorant,845,gulp-missile,,,flying,water,70,85,55,85,95,85
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+cramorant,845,gulp-missile,,,flying,water,70,85,55,85,95,85,Generation VIII,50,45,False,False,False,medium,water1,flying

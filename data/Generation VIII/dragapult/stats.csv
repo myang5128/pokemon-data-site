@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-dragapult,887,clear-body,infiltrator,cursed-body,dragon,ghost,88,120,75,100,75,142
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+dragapult,887,clear-body,infiltrator,cursed-body,dragon,ghost,88,120,75,100,75,142,Generation VIII,50,45,False,False,False,slow,indeterminate,dragon

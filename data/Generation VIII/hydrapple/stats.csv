@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-hydrapple,1019,supersweet-syrup,regenerator,sticky-hold,grass,dragon,106,80,110,120,80,44
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+hydrapple,1019,supersweet-syrup,regenerator,sticky-hold,grass,dragon,106,80,110,120,80,44,Generation VIII,50,10,False,False,False,slow-then-very-fast,,

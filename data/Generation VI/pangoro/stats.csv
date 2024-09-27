@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-pangoro,675,iron-fist,mold-breaker,scrappy,fighting,dark,95,124,78,69,71,58
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+pangoro,675,iron-fist,mold-breaker,scrappy,fighting,dark,95,124,78,69,71,58,Generation VI,50,65,False,False,False,medium,ground,humanshape

@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-nidorina,30,poison-point,rivalry,hustle,poison,,70,62,67,55,55,56
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+nidorina,30,poison-point,rivalry,hustle,poison,,70,62,67,55,55,56,Generation I,50,120,False,False,False,medium-slow,no-eggs,

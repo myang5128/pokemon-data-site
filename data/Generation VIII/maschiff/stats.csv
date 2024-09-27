@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-maschiff,942,intimidate,run-away,stakeout,dark,,60,78,60,40,51,51
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+maschiff,942,intimidate,run-away,stakeout,dark,,60,78,60,40,51,51,Generation VIII,50,150,False,False,False,medium-slow,ground,

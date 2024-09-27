@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-toxel,848,rattled,static,klutz,electric,poison,40,38,35,54,35,40
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+toxel,848,rattled,static,klutz,electric,poison,40,38,35,54,35,40,Generation VIII,50,75,True,False,False,medium-slow,no-eggs,

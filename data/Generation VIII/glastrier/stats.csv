@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-glastrier,896,chilling-neigh,,,ice,,100,145,130,65,110,30
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+glastrier,896,chilling-neigh,,,ice,,100,145,130,65,110,30,Generation VIII,35,3,False,True,False,slow,no-eggs,

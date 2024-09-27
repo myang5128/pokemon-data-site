@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-feebas,349,swift-swim,oblivious,adaptability,water,,20,15,20,10,55,80
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+feebas,349,swift-swim,oblivious,adaptability,water,,20,15,20,10,55,80,Generation III,50,255,False,False,False,slow-then-very-fast,water1,dragon

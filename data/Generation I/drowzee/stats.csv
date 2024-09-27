@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-drowzee,96,insomnia,forewarn,inner-focus,psychic,,60,48,45,43,90,42
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+drowzee,96,insomnia,forewarn,inner-focus,psychic,,60,48,45,43,90,42,Generation I,70,190,False,False,False,medium,humanshape,

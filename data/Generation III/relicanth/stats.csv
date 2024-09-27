@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-relicanth,369,swift-swim,rock-head,sturdy,water,rock,100,90,130,45,65,55
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+relicanth,369,swift-swim,rock-head,sturdy,water,rock,100,90,130,45,65,55,Generation III,50,25,False,False,False,slow,water1,water2

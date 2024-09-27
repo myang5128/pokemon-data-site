@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-gulpin,316,liquid-ooze,sticky-hold,gluttony,poison,,70,43,53,43,53,40
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+gulpin,316,liquid-ooze,sticky-hold,gluttony,poison,,70,43,53,43,53,40,Generation III,70,225,False,False,False,fast-then-very-slow,indeterminate,

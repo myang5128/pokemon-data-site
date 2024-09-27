@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-bewear,760,fluffy,klutz,unnerve,normal,fighting,120,125,80,55,60,60
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+bewear,760,fluffy,klutz,unnerve,normal,fighting,120,125,80,55,60,60,Generation VII,50,70,False,False,False,medium,ground,

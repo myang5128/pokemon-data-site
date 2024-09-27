@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-lillipup,506,vital-spirit,pickup,run-away,normal,,45,60,45,25,45,55
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+lillipup,506,vital-spirit,pickup,run-away,normal,,45,60,45,25,45,55,Generation V,50,255,False,False,False,medium-slow,ground,

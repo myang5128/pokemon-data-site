@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-magearna,801,soul-heart,,,steel,fairy,80,95,115,130,115,65
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+magearna,801,soul-heart,,,steel,fairy,80,95,115,130,115,65,Generation VII,0,3,False,False,True,slow,no-eggs,

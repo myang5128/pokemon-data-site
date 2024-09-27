@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-phantump,708,natural-cure,frisk,harvest,ghost,grass,43,70,48,50,60,38
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+phantump,708,natural-cure,frisk,harvest,ghost,grass,43,70,48,50,60,38,Generation VI,50,120,False,False,False,medium,plant,indeterminate

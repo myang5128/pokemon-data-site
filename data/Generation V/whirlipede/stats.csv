@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-whirlipede,544,poison-point,swarm,speed-boost,bug,poison,40,55,99,40,79,47
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+whirlipede,544,poison-point,swarm,speed-boost,bug,poison,40,55,99,40,79,47,Generation V,50,120,False,False,False,medium-slow,bug,

@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-kilowattrel,941,wind-power,volt-absorb,competitive,electric,flying,70,70,60,105,60,125
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+kilowattrel,941,wind-power,volt-absorb,competitive,electric,flying,70,70,60,105,60,125,Generation VIII,50,90,False,False,False,medium-slow,water1,flying

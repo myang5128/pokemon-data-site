@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-shelgon,372,rock-head,,overcoat,dragon,,65,95,100,60,50,50
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+shelgon,372,rock-head,,overcoat,dragon,,65,95,100,60,50,50,Generation III,35,45,False,False,False,slow,dragon,

@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-scovillain,952,chlorophyll,insomnia,moody,grass,fire,65,108,65,108,65,75
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+scovillain,952,chlorophyll,insomnia,moody,grass,fire,65,108,65,108,65,75,Generation VIII,50,75,False,False,False,medium,plant,

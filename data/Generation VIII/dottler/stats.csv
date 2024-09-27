@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-dottler,825,swarm,compound-eyes,telepathy,bug,psychic,50,35,80,50,90,30
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+dottler,825,swarm,compound-eyes,telepathy,bug,psychic,50,35,80,50,90,30,Generation VIII,50,120,False,False,False,medium,bug,

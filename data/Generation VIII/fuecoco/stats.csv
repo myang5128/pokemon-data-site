@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-fuecoco,909,blaze,,unaware,fire,,67,45,59,63,40,36
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+fuecoco,909,blaze,,unaware,fire,,67,45,59,63,40,36,Generation VIII,50,45,False,False,False,medium-slow,ground,

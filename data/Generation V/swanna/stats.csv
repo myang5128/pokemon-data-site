@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-swanna,581,keen-eye,big-pecks,hydration,water,flying,75,87,63,87,63,98
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+swanna,581,keen-eye,big-pecks,hydration,water,flying,75,87,63,87,63,98,Generation V,70,45,False,False,False,medium,water1,flying

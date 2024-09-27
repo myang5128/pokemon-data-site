@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-thievul,828,run-away,unburden,stakeout,dark,,70,58,58,87,92,90
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+thievul,828,run-away,unburden,stakeout,dark,,70,58,58,87,92,90,Generation VIII,50,127,False,False,False,fast,ground,

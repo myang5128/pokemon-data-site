@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-heracross,214,swarm,guts,moxie,bug,fighting,80,125,75,40,95,85
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+heracross,214,swarm,guts,moxie,bug,fighting,80,125,75,40,95,85,Generation II,50,45,False,False,False,slow,bug,

@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-dialga,483,pressure,,telepathy,steel,dragon,100,120,120,150,100,90
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+dialga,483,pressure,,telepathy,steel,dragon,100,120,120,150,100,90,Generation IV,0,3,False,True,False,slow,no-eggs,

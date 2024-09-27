@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-blissey,242,natural-cure,serene-grace,healer,normal,,255,10,10,75,135,55
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+blissey,242,natural-cure,serene-grace,healer,normal,,255,10,10,75,135,55,Generation II,140,30,False,False,False,fast,fairy,

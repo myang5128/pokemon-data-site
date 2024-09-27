@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-tapu-fini,788,misty-surge,,telepathy,water,fairy,70,75,115,95,130,85
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+tapu-fini,788,misty-surge,,telepathy,water,fairy,70,75,115,95,130,85,Generation VII,50,3,False,True,False,slow,no-eggs,

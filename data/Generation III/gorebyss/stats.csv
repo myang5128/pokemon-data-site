@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-gorebyss,368,swift-swim,,hydration,water,,55,84,105,114,75,52
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+gorebyss,368,swift-swim,,hydration,water,,55,84,105,114,75,52,Generation III,70,60,False,False,False,slow-then-very-fast,water1,

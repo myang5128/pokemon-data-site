@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-toxapex,748,merciless,limber,regenerator,poison,water,50,63,152,53,142,35
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+toxapex,748,merciless,limber,regenerator,poison,water,50,63,152,53,142,35,Generation VII,50,75,False,False,False,medium,water1,

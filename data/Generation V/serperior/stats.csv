@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-serperior,497,overgrow,,contrary,grass,,75,75,95,75,95,113
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+serperior,497,overgrow,,contrary,grass,,75,75,95,75,95,113,Generation V,70,45,False,False,False,medium-slow,ground,plant

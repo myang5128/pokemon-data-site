@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-tyrantrum,697,strong-jaw,,rock-head,rock,dragon,82,121,119,69,59,71
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+tyrantrum,697,strong-jaw,,rock-head,rock,dragon,82,121,119,69,59,71,Generation VI,50,45,False,False,False,medium,monster,dragon

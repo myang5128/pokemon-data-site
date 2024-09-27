@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-kirlia,281,synchronize,trace,telepathy,psychic,fairy,38,35,35,65,55,50
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+kirlia,281,synchronize,trace,telepathy,psychic,fairy,38,35,35,65,55,50,Generation III,35,120,False,False,False,slow,humanshape,indeterminate

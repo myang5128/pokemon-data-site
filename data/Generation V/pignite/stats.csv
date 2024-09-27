@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-pignite,499,blaze,,thick-fat,fire,fighting,90,93,55,70,55,55
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+pignite,499,blaze,,thick-fat,fire,fighting,90,93,55,70,55,55,Generation V,70,45,False,False,False,medium-slow,ground,

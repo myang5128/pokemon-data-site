@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-forretress,205,sturdy,,overcoat,bug,steel,75,90,140,60,60,40
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+forretress,205,sturdy,,overcoat,bug,steel,75,90,140,60,60,40,Generation II,70,75,False,False,False,medium,bug,

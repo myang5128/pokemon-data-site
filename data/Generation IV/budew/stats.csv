@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-budew,406,natural-cure,poison-point,leaf-guard,grass,poison,40,30,35,50,70,55
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+budew,406,natural-cure,poison-point,leaf-guard,grass,poison,40,30,35,50,70,55,Generation IV,50,255,True,False,False,medium-slow,no-eggs,

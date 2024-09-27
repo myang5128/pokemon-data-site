@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-annihilape,979,vital-spirit,inner-focus,defiant,fighting,ghost,110,115,80,50,90,90
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+annihilape,979,vital-spirit,inner-focus,defiant,fighting,ghost,110,115,80,50,90,90,Generation VIII,50,45,False,False,False,medium,ground,

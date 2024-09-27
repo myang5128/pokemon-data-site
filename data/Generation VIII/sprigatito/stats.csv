@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-sprigatito,906,overgrow,,protean,grass,,40,61,54,45,45,65
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+sprigatito,906,overgrow,,protean,grass,,40,61,54,45,45,65,Generation VIII,50,45,False,False,False,medium-slow,ground,plant

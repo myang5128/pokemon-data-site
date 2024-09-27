@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-anorith,347,battle-armor,,swift-swim,rock,bug,45,95,50,40,50,75
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+anorith,347,battle-armor,,swift-swim,rock,bug,45,95,50,40,50,75,Generation III,50,45,False,False,False,slow-then-very-fast,water3,

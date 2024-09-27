@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-munkidori,1015,toxic-chain,,frisk,poison,psychic,88,75,66,130,90,106
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+munkidori,1015,toxic-chain,,frisk,poison,psychic,88,75,66,130,90,106,Generation VIII,0,3,False,True,False,slow,,

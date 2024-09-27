@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-staraptor,398,intimidate,,reckless,normal,flying,85,120,70,50,60,100
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+staraptor,398,intimidate,,reckless,normal,flying,85,120,70,50,60,100,Generation IV,70,45,False,False,False,medium-slow,flying,

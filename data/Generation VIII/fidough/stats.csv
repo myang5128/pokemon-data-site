@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-fidough,926,own-tempo,,klutz,fairy,,37,55,70,30,55,65
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+fidough,926,own-tempo,,klutz,fairy,,37,55,70,30,55,65,Generation VIII,50,190,False,False,False,medium-slow,ground,mineral

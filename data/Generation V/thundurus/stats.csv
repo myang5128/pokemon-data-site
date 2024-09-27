@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-thundurus,642,prankster,,defiant,electric,flying,79,115,70,125,80,111
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+thundurus,642,prankster,,defiant,electric,flying,79,115,70,125,80,111,Generation V,90,3,False,True,False,slow,no-eggs,

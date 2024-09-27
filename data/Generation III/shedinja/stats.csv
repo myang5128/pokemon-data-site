@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-shedinja,292,wonder-guard,,,bug,ghost,1,90,45,30,30,40
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+shedinja,292,wonder-guard,,,bug,ghost,1,90,45,30,30,40,Generation III,50,45,False,False,False,slow-then-very-fast,mineral,

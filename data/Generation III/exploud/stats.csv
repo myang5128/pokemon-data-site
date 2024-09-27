@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-exploud,295,soundproof,,scrappy,normal,,104,91,63,91,73,68
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+exploud,295,soundproof,,scrappy,normal,,104,91,63,91,73,68,Generation III,50,45,False,False,False,medium-slow,monster,ground

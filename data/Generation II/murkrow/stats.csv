@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-murkrow,198,insomnia,super-luck,prankster,dark,flying,60,85,42,85,42,91
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+murkrow,198,insomnia,super-luck,prankster,dark,flying,60,85,42,85,42,91,Generation II,35,30,False,False,False,medium-slow,flying,

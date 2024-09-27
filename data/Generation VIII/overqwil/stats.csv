@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-overqwil,904,poison-point,swift-swim,intimidate,dark,poison,85,115,95,65,65,85
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+overqwil,904,poison-point,swift-swim,intimidate,dark,poison,85,115,95,65,65,85,Generation VIII,,135,False,False,False,medium,water2,

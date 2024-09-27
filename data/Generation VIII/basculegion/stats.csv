@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-basculegion,902,swift-swim,adaptability,mold-breaker,water,ghost,120,112,65,80,75,78
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+basculegion,902,swift-swim,adaptability,mold-breaker,water,ghost,120,112,65,80,75,78,Generation VIII,,135,False,False,False,medium,water2,

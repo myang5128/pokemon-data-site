@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-kabutops,141,swift-swim,battle-armor,weak-armor,rock,water,60,115,105,65,70,80
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+kabutops,141,swift-swim,battle-armor,weak-armor,rock,water,60,115,105,65,70,80,Generation I,50,45,False,False,False,medium,water1,water3

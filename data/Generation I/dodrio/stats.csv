@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-dodrio,85,run-away,early-bird,tangled-feet,normal,flying,60,110,70,60,60,110
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+dodrio,85,run-away,early-bird,tangled-feet,normal,flying,60,110,70,60,60,110,Generation I,70,45,False,False,False,medium,flying,

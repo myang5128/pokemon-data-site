@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-skwovet,819,cheek-pouch,,gluttony,normal,,70,55,55,35,35,25
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+skwovet,819,cheek-pouch,,gluttony,normal,,70,55,55,35,35,25,Generation VIII,50,255,False,False,False,medium,ground,

@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-gossifleur,829,cotton-down,regenerator,effect-spore,grass,,40,40,60,40,60,10
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+gossifleur,829,cotton-down,regenerator,effect-spore,grass,,40,40,60,40,60,10,Generation VIII,50,190,False,False,False,medium,plant,

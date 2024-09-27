@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-timburr,532,guts,sheer-force,iron-fist,fighting,,75,80,55,25,35,35
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+timburr,532,guts,sheer-force,iron-fist,fighting,,75,80,55,25,35,35,Generation V,70,180,False,False,False,medium-slow,humanshape,

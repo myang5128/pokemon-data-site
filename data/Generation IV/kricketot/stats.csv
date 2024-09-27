@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-kricketot,401,shed-skin,,run-away,bug,,37,25,41,25,41,25
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+kricketot,401,shed-skin,,run-away,bug,,37,25,41,25,41,25,Generation IV,70,255,False,False,False,medium-slow,bug,

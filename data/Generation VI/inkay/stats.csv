@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-inkay,686,contrary,suction-cups,infiltrator,dark,psychic,53,54,53,37,46,45
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+inkay,686,contrary,suction-cups,infiltrator,dark,psychic,53,54,53,37,46,45,Generation VI,50,190,False,False,False,medium,water1,water2

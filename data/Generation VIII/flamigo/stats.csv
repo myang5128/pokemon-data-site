@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-flamigo,973,scrappy,tangled-feet,costar,flying,fighting,82,115,74,75,64,90
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+flamigo,973,scrappy,tangled-feet,costar,flying,fighting,82,115,74,75,64,90,Generation VIII,50,100,False,False,False,medium-slow,flying,

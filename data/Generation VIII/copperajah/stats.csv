@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-copperajah,879,sheer-force,,heavy-metal,steel,,122,130,69,80,69,30
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+copperajah,879,sheer-force,,heavy-metal,steel,,122,130,69,80,69,30,Generation VIII,50,90,False,False,False,medium,ground,mineral

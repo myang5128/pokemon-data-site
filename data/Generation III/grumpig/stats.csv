@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-grumpig,326,thick-fat,own-tempo,gluttony,psychic,,80,45,65,90,110,80
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+grumpig,326,thick-fat,own-tempo,gluttony,psychic,,80,45,65,90,110,80,Generation III,70,60,False,False,False,fast,ground,

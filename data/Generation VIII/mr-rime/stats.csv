@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-mr-rime,866,tangled-feet,screen-cleaner,ice-body,ice,psychic,80,85,75,110,100,70
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+mr-rime,866,tangled-feet,screen-cleaner,ice-body,ice,psychic,80,85,75,110,100,70,Generation VIII,50,45,False,False,False,medium,humanshape,

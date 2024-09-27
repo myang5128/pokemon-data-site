@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-petilil,548,chlorophyll,own-tempo,leaf-guard,grass,,45,35,50,70,50,30
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+petilil,548,chlorophyll,own-tempo,leaf-guard,grass,,45,35,50,70,50,30,Generation V,50,190,False,False,False,medium,plant,

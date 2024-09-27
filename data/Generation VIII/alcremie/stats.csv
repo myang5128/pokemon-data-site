@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-alcremie,869,sweet-veil,,aroma-veil,fairy,,65,60,75,110,121,64
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+alcremie,869,sweet-veil,,aroma-veil,fairy,,65,60,75,110,121,64,Generation VIII,50,100,False,False,False,medium,fairy,indeterminate

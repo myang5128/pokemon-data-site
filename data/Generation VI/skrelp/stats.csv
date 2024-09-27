@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-skrelp,690,poison-point,poison-touch,adaptability,poison,water,50,60,60,60,60,30
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+skrelp,690,poison-point,poison-touch,adaptability,poison,water,50,60,60,60,60,30,Generation VI,50,225,False,False,False,medium,water1,dragon

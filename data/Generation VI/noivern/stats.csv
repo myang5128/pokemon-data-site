@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-noivern,715,frisk,infiltrator,telepathy,flying,dragon,85,70,80,97,80,123
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+noivern,715,frisk,infiltrator,telepathy,flying,dragon,85,70,80,97,80,123,Generation VI,50,45,False,False,False,medium,flying,dragon

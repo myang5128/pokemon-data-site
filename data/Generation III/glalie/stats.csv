@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-glalie,362,inner-focus,ice-body,moody,ice,,80,80,80,80,80,80
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+glalie,362,inner-focus,ice-body,moody,ice,,80,80,80,80,80,80,Generation III,50,75,False,False,False,medium,fairy,mineral

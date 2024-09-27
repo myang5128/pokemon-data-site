@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-psyduck,54,damp,cloud-nine,swift-swim,water,,50,52,48,65,50,55
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+psyduck,54,damp,cloud-nine,swift-swim,water,,50,52,48,65,50,55,Generation I,50,190,False,False,False,medium,water1,ground

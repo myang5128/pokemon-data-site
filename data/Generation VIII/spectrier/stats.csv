@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-spectrier,897,grim-neigh,,,ghost,,100,65,60,145,80,130
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+spectrier,897,grim-neigh,,,ghost,,100,65,60,145,80,130,Generation VIII,35,3,False,True,False,slow,no-eggs,

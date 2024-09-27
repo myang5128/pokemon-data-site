@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-machoke,67,guts,no-guard,steadfast,fighting,,80,100,70,50,60,45
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+machoke,67,guts,no-guard,steadfast,fighting,,80,100,70,50,60,45,Generation I,50,90,False,False,False,medium-slow,humanshape,

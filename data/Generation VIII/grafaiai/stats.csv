@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-grafaiai,945,unburden,poison-touch,prankster,poison,normal,63,95,65,80,72,110
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+grafaiai,945,unburden,poison-touch,prankster,poison,normal,63,95,65,80,72,110,Generation VIII,50,90,False,False,False,medium-slow,ground,

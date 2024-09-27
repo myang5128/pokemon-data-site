@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-darkrai,491,bad-dreams,,,dark,,70,90,90,135,90,125
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+darkrai,491,bad-dreams,,,dark,,70,90,90,135,90,125,Generation IV,0,3,False,False,True,slow,no-eggs,

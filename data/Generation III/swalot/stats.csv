@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-swalot,317,liquid-ooze,sticky-hold,gluttony,poison,,100,73,83,73,83,55
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+swalot,317,liquid-ooze,sticky-hold,gluttony,poison,,100,73,83,73,83,55,Generation III,70,75,False,False,False,fast-then-very-slow,indeterminate,

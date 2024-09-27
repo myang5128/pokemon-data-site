@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-marshadow,802,technician,,,fighting,ghost,90,125,80,90,90,125
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+marshadow,802,technician,,,fighting,ghost,90,125,80,90,90,125,Generation VII,0,3,False,False,True,slow,no-eggs,

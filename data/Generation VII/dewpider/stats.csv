@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-dewpider,751,water-bubble,,water-absorb,water,bug,38,40,52,40,72,27
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+dewpider,751,water-bubble,,water-absorb,water,bug,38,40,52,40,72,27,Generation VII,50,200,False,False,False,medium,water1,bug

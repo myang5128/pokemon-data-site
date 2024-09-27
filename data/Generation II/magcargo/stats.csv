@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-magcargo,219,magma-armor,flame-body,weak-armor,fire,rock,60,50,120,90,80,30
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+magcargo,219,magma-armor,flame-body,weak-armor,fire,rock,60,50,120,90,80,30,Generation II,70,75,False,False,False,medium,indeterminate,

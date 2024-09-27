@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-stantler,234,intimidate,frisk,sap-sipper,normal,,73,95,62,85,65,85
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+stantler,234,intimidate,frisk,sap-sipper,normal,,73,95,62,85,65,85,Generation II,70,45,False,False,False,slow,ground,

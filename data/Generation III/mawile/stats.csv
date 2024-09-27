@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-mawile,303,hyper-cutter,intimidate,sheer-force,steel,fairy,50,85,85,55,55,50
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+mawile,303,hyper-cutter,intimidate,sheer-force,steel,fairy,50,85,85,55,55,50,Generation III,50,45,False,False,False,fast,ground,fairy

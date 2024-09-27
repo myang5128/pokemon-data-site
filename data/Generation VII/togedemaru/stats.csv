@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-togedemaru,777,iron-barbs,lightning-rod,sturdy,electric,steel,65,98,63,40,73,96
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+togedemaru,777,iron-barbs,lightning-rod,sturdy,electric,steel,65,98,63,40,73,96,Generation VII,50,180,False,False,False,medium,ground,fairy

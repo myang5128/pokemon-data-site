@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-ursaring,217,guts,quick-feet,unnerve,normal,,90,130,75,75,75,55
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+ursaring,217,guts,quick-feet,unnerve,normal,,90,130,75,75,75,55,Generation II,70,60,False,False,False,medium,ground,

@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-fezandipiti,1016,toxic-chain,,technician,poison,fairy,88,91,82,70,125,99
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+fezandipiti,1016,toxic-chain,,technician,poison,fairy,88,91,82,70,125,99,Generation VIII,0,3,False,True,False,slow,,

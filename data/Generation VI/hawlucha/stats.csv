@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-hawlucha,701,limber,unburden,mold-breaker,fighting,flying,78,92,75,74,63,118
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+hawlucha,701,limber,unburden,mold-breaker,fighting,flying,78,92,75,74,63,118,Generation VI,50,100,False,False,False,medium,flying,humanshape

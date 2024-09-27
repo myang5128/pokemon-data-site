@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-rhyperior,464,lightning-rod,solid-rock,reckless,ground,rock,115,140,130,55,55,40
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+rhyperior,464,lightning-rod,solid-rock,reckless,ground,rock,115,140,130,55,55,40,Generation IV,50,30,False,False,False,slow,monster,ground

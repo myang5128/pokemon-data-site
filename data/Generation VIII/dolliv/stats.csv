@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-dolliv,929,early-bird,,harvest,grass,normal,52,53,60,78,78,33
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+dolliv,929,early-bird,,harvest,grass,normal,52,53,60,78,78,33,Generation VIII,50,120,False,False,False,medium-slow,plant,

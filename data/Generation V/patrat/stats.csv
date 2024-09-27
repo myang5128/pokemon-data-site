@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-patrat,504,run-away,keen-eye,analytic,normal,,45,55,39,35,39,42
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+patrat,504,run-away,keen-eye,analytic,normal,,45,55,39,35,39,42,Generation V,70,255,False,False,False,medium,ground,

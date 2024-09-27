@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-azumarill,184,thick-fat,huge-power,sap-sipper,water,fairy,100,50,80,60,80,50
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+azumarill,184,thick-fat,huge-power,sap-sipper,water,fairy,100,50,80,60,80,50,Generation II,50,75,False,False,False,fast,water1,fairy

@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-cranidos,408,mold-breaker,,sheer-force,rock,,67,125,40,30,30,58
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+cranidos,408,mold-breaker,,sheer-force,rock,,67,125,40,30,30,58,Generation IV,70,45,False,False,False,slow-then-very-fast,monster,

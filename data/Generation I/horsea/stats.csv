@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-horsea,116,swift-swim,sniper,damp,water,,30,40,70,70,25,60
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+horsea,116,swift-swim,sniper,damp,water,,30,40,70,70,25,60,Generation I,50,225,False,False,False,medium,water1,dragon

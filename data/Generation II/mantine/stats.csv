@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-mantine,226,swift-swim,water-absorb,water-veil,water,flying,85,40,70,80,140,70
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+mantine,226,swift-swim,water-absorb,water-veil,water,flying,85,40,70,80,140,70,Generation II,50,25,False,False,False,slow,water1,

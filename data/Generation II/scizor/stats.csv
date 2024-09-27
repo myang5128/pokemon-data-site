@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-scizor,212,swarm,technician,light-metal,bug,steel,70,130,100,55,80,65
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+scizor,212,swarm,technician,light-metal,bug,steel,70,130,100,55,80,65,Generation II,50,25,False,False,False,medium,bug,

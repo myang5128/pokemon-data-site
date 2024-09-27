@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-ledyba,165,swarm,early-bird,rattled,bug,flying,40,20,30,40,80,55
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+ledyba,165,swarm,early-bird,rattled,bug,flying,40,20,30,40,80,55,Generation II,70,255,False,False,False,fast,bug,

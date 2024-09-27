@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-scyther,123,swarm,technician,steadfast,bug,flying,70,110,80,55,80,105
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+scyther,123,swarm,technician,steadfast,bug,flying,70,110,80,55,80,105,Generation I,50,45,False,False,False,medium,bug,

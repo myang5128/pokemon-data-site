@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-camerupt,323,magma-armor,solid-rock,anger-point,fire,ground,70,100,70,105,75,40
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+camerupt,323,magma-armor,solid-rock,anger-point,fire,ground,70,100,70,105,75,40,Generation III,70,150,False,False,False,medium,ground,

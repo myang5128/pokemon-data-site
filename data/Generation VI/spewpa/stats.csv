@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-spewpa,665,shed-skin,,friend-guard,bug,,45,22,60,27,30,29
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+spewpa,665,shed-skin,,friend-guard,bug,,45,22,60,27,30,29,Generation VI,70,120,False,False,False,medium,bug,

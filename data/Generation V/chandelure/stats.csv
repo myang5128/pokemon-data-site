@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-chandelure,609,flash-fire,flame-body,infiltrator,ghost,fire,60,55,90,145,90,80
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+chandelure,609,flash-fire,flame-body,infiltrator,ghost,fire,60,55,90,145,90,80,Generation V,50,45,False,False,False,medium-slow,indeterminate,

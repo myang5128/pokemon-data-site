@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-scorbunny,813,blaze,,libero,fire,,50,71,40,40,40,69
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+scorbunny,813,blaze,,libero,fire,,50,71,40,40,40,69,Generation VIII,50,45,False,False,False,medium-slow,ground,humanshape

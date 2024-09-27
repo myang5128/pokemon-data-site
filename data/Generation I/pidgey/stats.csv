@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-pidgey,16,keen-eye,tangled-feet,big-pecks,normal,flying,40,45,40,35,35,56
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+pidgey,16,keen-eye,tangled-feet,big-pecks,normal,flying,40,45,40,35,35,56,Generation I,70,255,False,False,False,medium-slow,flying,

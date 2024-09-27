@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-sirfetchd,865,steadfast,,scrappy,fighting,,62,135,95,68,82,65
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+sirfetchd,865,steadfast,,scrappy,fighting,,62,135,95,68,82,65,Generation VIII,50,45,False,False,False,medium,flying,ground

@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-glaceon,471,snow-cloak,,ice-body,ice,,65,60,110,130,95,65
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+glaceon,471,snow-cloak,,ice-body,ice,,65,60,110,130,95,65,Generation IV,35,45,False,False,False,medium,ground,

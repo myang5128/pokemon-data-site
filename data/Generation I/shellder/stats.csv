@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-shellder,90,shell-armor,skill-link,overcoat,water,,30,65,100,45,25,40
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+shellder,90,shell-armor,skill-link,overcoat,water,,30,65,100,45,25,40,Generation I,50,190,False,False,False,slow,water3,

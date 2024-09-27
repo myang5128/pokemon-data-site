@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-bronzor,436,levitate,heatproof,heavy-metal,steel,psychic,57,24,86,24,86,23
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+bronzor,436,levitate,heatproof,heavy-metal,steel,psychic,57,24,86,24,86,23,Generation IV,50,255,False,False,False,medium,mineral,

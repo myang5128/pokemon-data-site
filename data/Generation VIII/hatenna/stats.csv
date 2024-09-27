@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-hatenna,856,healer,anticipation,magic-bounce,psychic,,42,30,45,56,53,39
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+hatenna,856,healer,anticipation,magic-bounce,psychic,,42,30,45,56,53,39,Generation VIII,50,235,False,False,False,slow,fairy,

@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-luvdisc,370,swift-swim,,hydration,water,,43,30,55,40,65,97
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+luvdisc,370,swift-swim,,hydration,water,,43,30,55,40,65,97,Generation III,70,225,False,False,False,fast,water2,

@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-yungoos,734,stakeout,strong-jaw,adaptability,normal,,48,70,30,30,30,45
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+yungoos,734,stakeout,strong-jaw,adaptability,normal,,48,70,30,30,30,45,Generation VII,70,255,False,False,False,medium,ground,

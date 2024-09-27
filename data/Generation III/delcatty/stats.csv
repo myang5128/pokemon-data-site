@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-delcatty,301,cute-charm,normalize,wonder-skin,normal,,70,65,65,55,55,90
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+delcatty,301,cute-charm,normalize,wonder-skin,normal,,70,65,65,55,55,90,Generation III,70,60,False,False,False,fast,ground,fairy

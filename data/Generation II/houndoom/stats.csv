@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-houndoom,229,early-bird,flash-fire,unnerve,dark,fire,75,90,50,110,80,95
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+houndoom,229,early-bird,flash-fire,unnerve,dark,fire,75,90,50,110,80,95,Generation II,35,45,False,False,False,slow,ground,

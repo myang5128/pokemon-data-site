@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-kleavor,900,swarm,sheer-force,sharpness,bug,rock,70,135,95,45,70,85
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+kleavor,900,swarm,sheer-force,sharpness,bug,rock,70,135,95,45,70,85,Generation VIII,,115,False,False,False,medium,bug,

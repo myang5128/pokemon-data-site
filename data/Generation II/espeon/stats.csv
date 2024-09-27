@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-espeon,196,synchronize,,magic-bounce,psychic,,65,65,60,130,95,110
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+espeon,196,synchronize,,magic-bounce,psychic,,65,65,60,130,95,110,Generation II,50,45,False,False,False,medium,ground,

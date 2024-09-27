@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-igglybuff,174,cute-charm,competitive,friend-guard,normal,fairy,90,30,15,40,20,15
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+igglybuff,174,cute-charm,competitive,friend-guard,normal,fairy,90,30,15,40,20,15,Generation II,50,170,True,False,False,fast,no-eggs,

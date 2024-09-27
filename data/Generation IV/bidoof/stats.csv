@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-bidoof,399,simple,unaware,moody,normal,,59,45,40,35,40,31
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+bidoof,399,simple,unaware,moody,normal,,59,45,40,35,40,31,Generation IV,70,255,False,False,False,medium,water1,ground

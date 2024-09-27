@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-ponyta,77,run-away,flash-fire,flame-body,fire,,50,85,55,65,65,90
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+ponyta,77,run-away,flash-fire,flame-body,fire,,50,85,55,65,65,90,Generation I,50,190,False,False,False,medium,ground,

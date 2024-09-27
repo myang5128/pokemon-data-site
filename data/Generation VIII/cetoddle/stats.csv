@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-cetoddle,974,thick-fat,snow-cloak,sheer-force,ice,,108,68,45,30,40,43
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+cetoddle,974,thick-fat,snow-cloak,sheer-force,ice,,108,68,45,30,40,43,Generation VIII,50,150,False,False,False,medium-slow,ground,

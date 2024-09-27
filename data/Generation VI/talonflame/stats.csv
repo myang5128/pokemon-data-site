@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-talonflame,663,flame-body,,gale-wings,fire,flying,78,81,71,74,69,126
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+talonflame,663,flame-body,,gale-wings,fire,flying,78,81,71,74,69,126,Generation VI,50,45,False,False,False,medium-slow,flying,

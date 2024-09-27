@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-pinsir,127,hyper-cutter,mold-breaker,moxie,bug,,65,125,100,55,70,85
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+pinsir,127,hyper-cutter,mold-breaker,moxie,bug,,65,125,100,55,70,85,Generation I,50,45,False,False,False,slow,bug,

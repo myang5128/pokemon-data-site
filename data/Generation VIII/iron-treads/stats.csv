@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-iron-treads,990,quark-drive,,quark-drive,ground,steel,90,112,120,72,70,106
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+iron-treads,990,quark-drive,,quark-drive,ground,steel,90,112,120,72,70,106,Generation VIII,0,30,False,False,False,slow,no-eggs,

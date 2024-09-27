@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-burmy,412,shed-skin,,overcoat,bug,,40,29,45,29,45,36
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+burmy,412,shed-skin,,overcoat,bug,,40,29,45,29,45,36,Generation IV,70,120,False,False,False,medium,bug,

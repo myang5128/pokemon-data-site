@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-sandaconda,844,sand-spit,shed-skin,sand-veil,ground,,72,107,125,65,70,71
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+sandaconda,844,sand-spit,shed-skin,sand-veil,ground,,72,107,125,65,70,71,Generation VIII,50,120,False,False,False,medium,ground,dragon

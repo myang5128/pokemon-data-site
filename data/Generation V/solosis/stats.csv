@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-solosis,577,overcoat,magic-guard,regenerator,psychic,,45,30,40,105,50,20
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+solosis,577,overcoat,magic-guard,regenerator,psychic,,45,30,40,105,50,20,Generation V,50,200,False,False,False,medium-slow,indeterminate,

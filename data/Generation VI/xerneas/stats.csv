@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-xerneas,716,fairy-aura,,,fairy,,126,131,95,131,98,99
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+xerneas,716,fairy-aura,,,fairy,,126,131,95,131,98,99,Generation VI,0,45,False,True,False,slow,no-eggs,

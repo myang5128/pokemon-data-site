@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-sigilyph,561,wonder-skin,magic-guard,tinted-lens,psychic,flying,72,58,80,103,80,97
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+sigilyph,561,wonder-skin,magic-guard,tinted-lens,psychic,flying,72,58,80,103,80,97,Generation V,50,45,False,False,False,medium,flying,

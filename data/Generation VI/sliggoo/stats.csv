@@ -1,2 +1,2 @@
-Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed
-sliggoo,705,sap-sipper,hydration,gooey,dragon,,68,75,53,83,113,60
+Name,ID,Ability One,Ability Two,Hidden Ability,Primary Type,Secondary Type,HP,Attack,Defense,SpAttack,SpDefense,Speed,Generation,Base Happiness,Capture Rate,Baby,Legendary,Mythical,Growth Rate,Egg Group One,Egg Group Two
+sliggoo,705,sap-sipper,hydration,gooey,dragon,,68,75,53,83,113,60,Generation VI,35,45,False,False,False,slow,dragon,
